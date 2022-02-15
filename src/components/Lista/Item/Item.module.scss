@@ -1,0 +1,14 @@
+.ListItem{
+    background: lightgray;
+    border: 0.5px black solid;
+    width: 40%;
+    margin: 5px;
+    padding-left: 2%;
+    
+    display:inline-block;
+    list-style-type: none;
+
+    h1{
+        color: purple
+    }
+}
